@@ -55,7 +55,7 @@ struct HisabisaShaderApp: App {
     var body: some Scene {
         WindowGroup {
             NavigationView {
-                AddTaskView()
+                ContentView()
             }
         }
     }

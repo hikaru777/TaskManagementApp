@@ -7,4 +7,10 @@
    <FileRef
       location = "group:KihomoriApp.xcodeproj">
    </FileRef>
+   <FileRef
+      location = "group:Task.swift">
+   </FileRef>
+   <FileRef
+      location = "group:WaterScene.swift">
+   </FileRef>
 </Workspace>
